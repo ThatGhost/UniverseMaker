@@ -1,0 +1,231 @@
+﻿  pch.cpp
+C:\Projects\Khan\UniverseMaker\staticUtils.h(22,15): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\staticUtils.h(24,15): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(83,39): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(83,27): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(83,15): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(84,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(84,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(84,15): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(85,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(85,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(85,15): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(86,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(86,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(86,15): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(87,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(87,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(87,15): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(107,15): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  (compiling source file 'pch.cpp')
+  
+C:\Projects\Khan\UniverseMaker\StarSystem.h(109,15): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  (compiling source file 'pch.cpp')
+  
+  Core.cpp
+  Game.cpp
+C:\Projects\Khan\UniverseMaker\Game.cpp(85,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(85,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(85,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(85,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(88,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(88,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(88,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(89,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(89,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(89,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(89,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(113,19): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(113,15): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(113,11): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(115,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(115,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(115,15): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(121,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(121,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(121,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(129,15): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(130,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(130,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(138,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(138,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(138,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(138,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(139,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(139,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(139,17): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(140,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(140,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(140,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(140,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(143,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(143,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(143,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(143,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,146): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,146): warning C4244:         with
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,146): warning C4244:         [
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,146): warning C4244:             _Ty=double
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,146): warning C4244:         ]
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,115): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,115): warning C4244:         with
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,115): warning C4244:         [
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,115): warning C4244:             _Ty=double
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,115): warning C4244:         ]
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(149,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(153,67): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Projects\Khan\UniverseMaker\Game.cpp(155,48): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+  main.cpp
+  StarSystem.cpp
+  staticUtils.cpp
+  structs.cpp
+  utils.cpp
+  Generating Code...
+  Universe Maker.vcxproj -> C:\Projects\Khan\UniverseMaker\x64\Debug\Universe Maker.exe
+  COPY THE DLL FILES
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2-2.0.10\lib\x64\SDL2.dll
+  1 File(s) copied
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_image-2.0.5\lib\x64\libjpeg-9.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_image-2.0.5\lib\x64\libpng16-16.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_image-2.0.5\lib\x64\libtiff-5.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_image-2.0.5\lib\x64\libwebp-7.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_image-2.0.5\lib\x64\SDL2_image.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_image-2.0.5\lib\x64\zlib1.dll
+  6 File(s) copied
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_mixer-2.0.4\lib\x64\libFLAC-8.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_mixer-2.0.4\lib\x64\libmodplug-1.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_mixer-2.0.4\lib\x64\libmpg123-0.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_mixer-2.0.4\lib\x64\libogg-0.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_mixer-2.0.4\lib\x64\libopus-0.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_mixer-2.0.4\lib\x64\libopusfile-0.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_mixer-2.0.4\lib\x64\libvorbis-0.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_mixer-2.0.4\lib\x64\libvorbisfile-3.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_mixer-2.0.4\lib\x64\SDL2_mixer.dll
+  9 File(s) copied
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_ttf-2.0.15\lib\x64\libfreetype-6.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_ttf-2.0.15\lib\x64\SDL2_ttf.dll
+  C:\Projects\Khan\UniverseMaker\Libraries\SDL2_ttf-2.0.15\lib\x64\zlib1.dll
+  3 File(s) copied
